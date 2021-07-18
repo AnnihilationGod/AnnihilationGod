@@ -40,7 +40,7 @@ to
 
 Date|Symbol|Short Volume|Short Exempt Volume|Total Volume|Market
 
-### I addad a Short Exempt Volume to reported FINRA data >2012 while data <2012 was already in the correct structure. 
+### I addad a Short Exempt Volume to reported FINRA data >2012 even if there is not reported SEV for this periode - while data <2012 was already in the correct structure. 
 
 
 Okay, more information about the data provided:
